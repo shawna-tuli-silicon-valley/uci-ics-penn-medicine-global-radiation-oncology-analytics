@@ -98,7 +98,7 @@ Q6: What are the patterns of survivorship care of cervical cancer patients with 
 
 Paper available in Fall 2022.
 
-source: /figures_and_tables/5_survivorship_care
+Source: /figures_and_tables/5_survivorship_care
 
 # 7. ![ICMH-08](https://user-images.githubusercontent.com/19508013/184208159-ef7b5cfd-899e-4ff0-8008-4c37067b14a1.jpg)
 
