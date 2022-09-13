@@ -94,7 +94,7 @@ Q5: What is the five-year overall survival following chemoradiation therapy for 
 
 # 6. ![go](https://user-images.githubusercontent.com/19508013/172902353-57a1583f-fb7e-48ec-93af-b668290fd7f5.png)
 
-Q6: What are the patterns of survivorship care of cervical cancer patients with or without HIV infection in Botswana 2015-2022?
+Q6: What are the patterns of survivorship care of cervical cancer patients with or without HIV infection in Botswana 2015-2020?
 
 Paper available in Fall 2022.
 
@@ -114,12 +114,15 @@ Manuscript available in Fall 2022.
 
 Q9: Patterns of Survivorship Care of Cervical Cancer Patients with or without HIV Infection in Botswana 2015-2022
 
+Paper available in Fall 2022.
+
 Source: /figures_and_tables/5_survivorship_care
 
 # 10. 
 
 Q10: Delays in treatment initiation for cervical cancer patients with or without HIV infection in Botswana 2013-2019
 
+Paper available in Fall 2022.
 ___________________________________________________________________________________________________________________________________________________________________
 
 <img width="853" alt="Screen Shot 2021-10-08 at 7 57 52 AM" src="https://user-images.githubusercontent.com/19508013/136579075-a17e6d7d-5f47-4ea9-97f6-92517af51741.png">
