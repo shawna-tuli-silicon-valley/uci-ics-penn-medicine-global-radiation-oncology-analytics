@@ -112,7 +112,7 @@ Manuscript available in Fall 2022.
 
 # 9. 
 
-Q9: Patterns of Survivorship Care of Cervical Cancer Patients with or without HIV Infection in Botswana 2015-2022
+Q9: Patterns of Survivorship Care of Cervical Cancer Patients with or without HIV Infection in Botswana 2015-2022?
 
 Paper available in Fall 2022.
 
@@ -120,7 +120,7 @@ Source: /figures_and_tables/5_survivorship_care
 
 # 10. 
 
-Q10: Delays in treatment initiation for cervical cancer patients with or without HIV infection in Botswana 2013-2019
+Q10: Delays in treatment initiation for cervical cancer patients with or without HIV infection in Botswana 2013-2019?
 
 Paper available in Fall 2022.
 ___________________________________________________________________________________________________________________________________________________________________
