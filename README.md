@@ -98,8 +98,6 @@ Q6: What are the patterns of survivorship care of cervical cancer patients with 
 
 Paper available in Fall 2022.
 
-Source: /figures_and_tables/5_survivorship_care
-
 # 7. ![ICMH-08](https://user-images.githubusercontent.com/19508013/184208159-ef7b5cfd-899e-4ff0-8008-4c37067b14a1.jpg)
 
 Q7: What are the stage and outcomes of invasive cervical cancer patients with or without HIV in Botswana: A prospective cohort study from 2013-2020?
@@ -111,6 +109,17 @@ Manuscript available in Fall 2022.
 Q8: What are the delays in treatment initiation for cervical cancer patients with or without HIV infection in Botswana 2013-2020?
 
 Manuscript available in Fall 2022. 
+
+# 9. 
+
+Q9: Patterns of Survivorship Care of Cervical Cancer Patients with or without HIV Infection in Botswana 2015-2022
+
+Source: /figures_and_tables/5_survivorship_care
+
+# 10. 
+
+Q10: Delays in treatment initiation for cervical cancer patients with or without HIV infection in Botswana 2013-2019
+
 ___________________________________________________________________________________________________________________________________________________________________
 
 <img width="853" alt="Screen Shot 2021-10-08 at 7 57 52 AM" src="https://user-images.githubusercontent.com/19508013/136579075-a17e6d7d-5f47-4ea9-97f6-92517af51741.png">
