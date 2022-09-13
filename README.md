@@ -92,8 +92,7 @@ Q5: What is the five-year overall survival following chemoradiation therapy for 
 
 <img width="1237" alt="144502966-020083f2-047a-4706-b55b-451d988c08c9" src="https://user-images.githubusercontent.com/19508013/153717289-acba2ff5-0c30-4110-bdf3-c10fe65a89d1.png">
 
-# 6. 
-![go](https://user-images.githubusercontent.com/19508013/172902353-57a1583f-fb7e-48ec-93af-b668290fd7f5.png)
+# 6. ![go](https://user-images.githubusercontent.com/19508013/172902353-57a1583f-fb7e-48ec-93af-b668290fd7f5.png)
 
 Q6: What are the patterns of survivorship care of cervical cancer patients with or without HIV infection in Botswana 2015-2020?
 
