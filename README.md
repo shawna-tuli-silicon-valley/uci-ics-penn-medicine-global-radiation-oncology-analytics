@@ -7,7 +7,7 @@ Associated with Donald Bren School of Information and Computer Sciences at the U
 
 ∙ [Shawna Tuli Final Report](https://github.com/shawnatuli/uci-ics-penn-medicine-radiation-oncology-advanced-analytics/blob/main/papers/Report_Final_George_Tuli_9.pdf)
 
-I analyzed, published, and presented 8 cancer Data Science and Unsupervised ML white papers on 7 years of 1,043 patient data. I mentored 2 University of Pennsylvania pre-meds and led 30+ surgeons, doctors, med students, and undergraduates.
+I analyzed, published, and presented 4 cancer Data Science and Unsupervised Machine Learning white papers and 6 abstracts on 7 years of 1,043 patient data. I mentored 2 University of Pennsylvania pre-medical students and led 30+ surgeons, doctors, medical students, and undergraduates.
 
 "Shawna is very professional, organized and great to work with! Take initiative and delivers what she commits to doing." - Surbhi Grover (University of Pennsylvania Assistant Professor and Director of Global Radiation Oncology) 
 
