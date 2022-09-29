@@ -114,7 +114,7 @@ Manuscript available in Fall 2022.
 
 # 9. TBA
 
-Q9: Patterns of Survivorship Care of Cervical Cancer Patients with or without HIV Infection in Botswana 2015-2022?
+Q9: Patterns of survivorship care of cervical cancer patients with or without HIV infection in Botswana 2015-2022?
 
 Paper available in Fall 2022.
 
