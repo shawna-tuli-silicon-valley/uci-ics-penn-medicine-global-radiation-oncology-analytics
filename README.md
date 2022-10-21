@@ -106,11 +106,15 @@ Q7: What are the stage and outcomes of invasive cervical cancer patients with or
 
 Manuscript available in Fall 2022. 
 
+[Survivorship Care Poster.pptx.pdf](https://github.com/shawna-tuli-stanford-uci-kelloggexeced/uci-ics-penn-medicine-radiation-oncology-analytics/files/9843070/Survivorship.Care.Poster.pptx.pdf)
+
 # 8. ![ICMH-08](https://user-images.githubusercontent.com/19508013/184208159-ef7b5cfd-899e-4ff0-8008-4c37067b14a1.jpg)
 
 Q8: What are the delays in treatment initiation for cervical cancer patients with or without HIV infection in Botswana 2013-2020?
 
 Manuscript available in Fall 2022. 
+
+[Delays Poster.pptx.pdf](https://github.com/shawna-tuli-stanford-uci-kelloggexeced/uci-ics-penn-medicine-radiation-oncology-analytics/files/9843071/Delays.Poster.pptx.pdf)
 
 # 9. TBA
 
