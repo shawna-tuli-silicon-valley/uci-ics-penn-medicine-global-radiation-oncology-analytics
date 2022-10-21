@@ -106,7 +106,7 @@ Q7: What are the stage and outcomes of invasive cervical cancer patients with or
 
 Manuscript available in Fall 2022. 
 
-[Survivorship Care Poster.pptx.pdf](https://github.com/shawna-tuli-stanford-uci-kelloggexeced/uci-ics-penn-medicine-radiation-oncology-analytics/files/9843070/Survivorship.Care.Poster.pptx.pdf)
+<img width="1232" alt="Screen Shot 2022-10-21 at 4 49 59 PM" src="https://user-images.githubusercontent.com/19508013/197305994-d4eb5c3c-52cd-414b-8acb-34cdbe0026ec.png">
 
 # 8. ![ICMH-08](https://user-images.githubusercontent.com/19508013/184208159-ef7b5cfd-899e-4ff0-8008-4c37067b14a1.jpg)
 
@@ -114,7 +114,7 @@ Q8: What are the delays in treatment initiation for cervical cancer patients wit
 
 Manuscript available in Fall 2022. 
 
-[Delays Poster.pptx.pdf](https://github.com/shawna-tuli-stanford-uci-kelloggexeced/uci-ics-penn-medicine-radiation-oncology-analytics/files/9843071/Delays.Poster.pptx.pdf)
+![Delays Poster pptx](https://user-images.githubusercontent.com/19508013/197306063-4c2d7983-827c-495c-af7d-63b44fff9f88.png)
 
 # 9. TBA
 
