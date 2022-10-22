@@ -139,6 +139,38 @@ ________________________________________________________________________________
 
 <img width="962" alt="Screen Shot 2022-10-21 at 4 59 24 PM" src="https://user-images.githubusercontent.com/19508013/197306498-9ca4d809-70cb-4a8c-a6fb-d1e8f4264141.png">
 
+<img width="963" alt="Screen Shot 2022-10-21 at 5 06 33 PM" src="https://user-images.githubusercontent.com/19508013/197306940-3ab112a9-c8b1-467d-bc48-760e39e8ffa1.png">
+
+<img width="962" alt="Screen Shot 2022-10-21 at 5 06 58 PM" src="https://user-images.githubusercontent.com/19508013/197306949-cdc88e42-4193-4ddb-926e-4815112e129f.png">
+
+<img width="962" alt="Screen Shot 2022-10-21 at 5 07 18 PM" src="https://user-images.githubusercontent.com/19508013/197306957-5d1859e4-070e-4ed8-b9de-af9eccdeaf9f.png">
+
+<img width="962" alt="Screen Shot 2022-10-21 at 5 08 49 PM" src="https://user-images.githubusercontent.com/19508013/197307171-79e2d948-2ebc-4731-82eb-e20b1f3549ef.png">
+
+<img width="964" alt="Screen Shot 2022-10-21 at 5 08 58 PM" src="https://user-images.githubusercontent.com/19508013/197307172-11530aa9-5e30-4166-b463-5dfcb106492c.png">
+
+<img width="963" alt="Screen Shot 2022-10-21 at 5 09 06 PM" src="https://user-images.githubusercontent.com/19508013/197307175-ec533dad-b3f8-4eab-ba79-199a8cd788bc.png">
+
+<img width="963" alt="Screen Shot 2022-10-21 at 5 09 18 PM" src="https://user-images.githubusercontent.com/19508013/197307176-2314206f-beac-47ad-a385-a4072474e2c8.png">
+
+<img width="963" alt="Screen Shot 2022-10-21 at 5 09 30 PM" src="https://user-images.githubusercontent.com/19508013/197307177-4f88e496-a038-49db-9e0e-26454a15fa40.png">
+
+<img width="961" alt="Screen Shot 2022-10-21 at 5 09 40 PM" src="https://user-images.githubusercontent.com/19508013/197307179-107db4c9-7a2e-4413-9dc4-4a6ef449f1f9.png">
+
+<img width="962" alt="Screen Shot 2022-10-21 at 5 09 57 PM" src="https://user-images.githubusercontent.com/19508013/197307182-437e8132-0bc5-4f6b-820c-9fd6803594fd.png">
+
+<img width="963" alt="Screen Shot 2022-10-21 at 5 10 30 PM" src="https://user-images.githubusercontent.com/19508013/197307183-92e7ec15-fad7-4828-b83e-a4c3e20a5705.png">
+
+<img width="962" alt="Screen Shot 2022-10-21 at 5 10 43 PM" src="https://user-images.githubusercontent.com/19508013/197307184-d1d08a97-cfa1-4d58-a48b-1a08542e8073.png">
+
+<img width="962" alt="Screen Shot 2022-10-21 at 5 10 54 PM" src="https://user-images.githubusercontent.com/19508013/197307187-295b8ec4-6fb5-4fc0-9b83-47af8d90446c.png">
+
+<img width="964" alt="Screen Shot 2022-10-21 at 5 11 10 PM" src="https://user-images.githubusercontent.com/19508013/197307191-7b8c6830-a1bc-462b-97fc-a4fde7291e3e.png">
+
+<img width="962" alt="Screen Shot 2022-10-21 at 5 11 19 PM" src="https://user-images.githubusercontent.com/19508013/197307193-de7d42e9-3e56-49e2-9ea9-e2880a59a4a5.png">
+
+<img width="962" alt="Screen Shot 2022-10-21 at 5 11 34 PM" src="https://user-images.githubusercontent.com/19508013/197307194-f6844b6f-415f-422a-ac6e-a19c7e5db857.png">
+
 # Presentation II
 
 ![SnipImage](https://user-images.githubusercontent.com/19508013/147886044-3987b8bb-e888-490c-abee-b696d9f1b5d2.JPG)
