@@ -7,8 +7,6 @@ Associated with Donald Bren School of Information and Computer Sciences at the U
 
 ∙ [Shawna Tuli Final Report](https://github.com/shawna-tuli-stanford-uci-kelloggexeced/uci-ics-penn-medicine-radiation-oncology-analytics/blob/main/papers/Report_Final_George_Tuli_9.pdf)
 
-I analyzed, published, and presented 4 cancer Data Science and Unsupervised Machine Learning white papers and 6 abstracts on 7 years of 1,043 patient data. I mentored 2 University of Pennsylvania pre-medical students and led 30+ surgeons, doctors, medical students, and undergraduates.
-
 "Shawna is very professional, organized and great to work with! Take initiative and delivers what she commits to doing." - Surbhi Grover (University of Pennsylvania Assistant Professor and Director of Global Radiation Oncology) 
 
 "Shawna and I began working together during our last year at UC Irvine in 2020. We embarked on an end-to-end data-driven project, applied methods rooted in statistics and machine learning, and have continued working together since. Shawna is the ideal business partner because she is professional, accessible, flexible, and driven by her passion and desire to produce measurable, impactful results. Although she is easily able to teach and share from her own experience and industry knowledge, she is always aiming for growth in order to diversify her skill set. Without a doubt, Shawna is an asset to have for any business or tech pursuits." - Jessica George (Biostatistics Apprentice / Data Scientist at Allergan Aesthetics (an AbbVie company))
