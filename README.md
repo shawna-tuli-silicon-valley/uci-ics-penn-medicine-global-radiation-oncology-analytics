@@ -5,7 +5,7 @@
 
 Associated with Donald Bren School of Information and Computer Sciences at the University of California, Irvine, Penn Medicine: University Health System, and Perelman School of Medicine at the University of Pennsylvania. Data sourced from Penn Medicine Radiation Oncology REDCap data.
 
-∙ [Shawna Tuli Final Report](https://github.com/shawna-tuli-stanford-uci-kelloggexeced/uci-ics-penn-medicine-radiation-oncology-analytics/blob/main/papers/Report_Final_George_Tuli_9.pdf)
+∙ [Shawna Tuli 2020 Final Report](https://github.com/shawna-tuli-stanford-uci-kelloggexeced/uci-ics-penn-medicine-radiation-oncology-analytics/blob/main/papers/Report_Final_George_Tuli_9.pdf)
 
 "Shawna is very professional, organized and great to work with! Take initiative and delivers what she commits to doing." - Surbhi Grover (University of Pennsylvania Assistant Professor and Director of Global Radiation Oncology) 
 
