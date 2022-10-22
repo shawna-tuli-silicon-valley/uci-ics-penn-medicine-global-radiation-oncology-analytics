@@ -17,7 +17,8 @@ I analyzed, published, and presented 4 cancer Data Science and Unsupervised Mach
 
 "I am honored to write a recommendation letter on behalf of Shawna Tuli. I got the opportunity to work with Shawna during the summer of 2021. She was my mentor and supervisor. Her great skills were remarkable as she had a huge contribution to my personal growth and she helped me achieve some of my academic goals. We worked together on writing a scientific paper about treatment delays for women with or without HIV co-infection in Botswana. Shawna oversaw my project and ensured that I was on the right track by editing my work, refining my writing skills and referring me to the appropriate resources whenever I needed further guidance. In addition to that, Shawna introduced me to the machine learning and statistical methods that were used to analyze the data from the Botswana cohort. When she noted that my interest was ignited, she went further and shared some of her coding projects so that I could enhance my knowledge. This ignited my passion for coding and I have further tried to merge my interest in coding and healthcare to align with my career goals. Shawna was also keen to ensure that I met my deadlines and helped me improve my time management skills by showing me how to organize my research, planning things ahead of time and using a calendar to set a system in place to schedule my day and use my time well. It was a great honor working with Shawna as she was not only a great mentor but she was very impactful to me." - Jane Muni (University of Pennsylvania Nursing Undergraduate)
 
-# 1. ![ASTRO_logo](https://user-images.githubusercontent.com/19508013/165821569-685f1f11-a3f4-4b30-9a40-36f7761a481c.png)
+# 1. 
+![ASTRO_logo](https://user-images.githubusercontent.com/19508013/165821569-685f1f11-a3f4-4b30-9a40-36f7761a481c.png)
 
 Q1: What are the stage and outcomes of cervival cancer with or without HIV infection in Botswana 2013-2020? 
 
@@ -101,7 +102,8 @@ Q6: What are the patterns of survivorship care of cervical cancer patients with 
 
 Paper available in Fall 2022.
 
-# 7. ![ICMH-08](https://user-images.githubusercontent.com/19508013/184208159-ef7b5cfd-899e-4ff0-8008-4c37067b14a1.jpg)
+# 7. 
+![ICMH-08](https://user-images.githubusercontent.com/19508013/184208159-ef7b5cfd-899e-4ff0-8008-4c37067b14a1.jpg)
 
 Q7: What are the stage and outcomes of invasive cervical cancer patients with or without HIV in Botswana: A prospective cohort study from 2013-2020?
 
@@ -109,7 +111,8 @@ Manuscript available in Fall 2022.
 
 <img width="1232" alt="Screen Shot 2022-10-21 at 4 49 59 PM" src="https://user-images.githubusercontent.com/19508013/197305994-d4eb5c3c-52cd-414b-8acb-34cdbe0026ec.png">
 
-# 8. ![ICMH-08](https://user-images.githubusercontent.com/19508013/184208159-ef7b5cfd-899e-4ff0-8008-4c37067b14a1.jpg)
+# 8. 
+![ICMH-08](https://user-images.githubusercontent.com/19508013/184208159-ef7b5cfd-899e-4ff0-8008-4c37067b14a1.jpg)
 
 Q8: What are the delays in treatment initiation for cervical cancer patients with or without HIV infection in Botswana 2013-2020?
 
