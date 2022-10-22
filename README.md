@@ -5,7 +5,7 @@
 
 Associated with Donald Bren School of Information and Computer Sciences at the University of California, Irvine, Penn Medicine: University Health System, and Perelman School of Medicine at the University of Pennsylvania. Data sourced from Penn Medicine Radiation Oncology REDCap data.
 
-∙ [Shawna Tuli Final Report](https://github.com/shawnatuli/uci-ics-penn-medicine-radiation-oncology-advanced-analytics/blob/main/papers/Report_Final_George_Tuli_9.pdf)
+∙ [Shawna Tuli Final Report](https://github.com/shawna-tuli-stanford-uci-kelloggexeced/uci-ics-penn-medicine-radiation-oncology-analytics/blob/main/papers/Report_Final_George_Tuli_9.pdf)
 
 I analyzed, published, and presented 4 cancer Data Science and Unsupervised Machine Learning white papers and 6 abstracts on 7 years of 1,043 patient data. I mentored 2 University of Pennsylvania pre-medical students and led 30+ surgeons, doctors, medical students, and undergraduates.
 
