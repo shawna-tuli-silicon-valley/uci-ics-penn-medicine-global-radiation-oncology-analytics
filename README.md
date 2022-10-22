@@ -107,16 +107,12 @@ Paper available in Fall 2022.
 
 Q7: What are the stage and outcomes of invasive cervical cancer patients with or without HIV in Botswana: A prospective cohort study from 2013-2020?
 
-Manuscript available in Fall 2022. 
-
 <img width="1232" alt="Screen Shot 2022-10-21 at 4 49 59 PM" src="https://user-images.githubusercontent.com/19508013/197305994-d4eb5c3c-52cd-414b-8acb-34cdbe0026ec.png">
 
 # 8. 
 ![ICMH-08](https://user-images.githubusercontent.com/19508013/184208159-ef7b5cfd-899e-4ff0-8008-4c37067b14a1.jpg)
 
-Q8: What are the delays in treatment initiation for cervical cancer patients with or without HIV infection in Botswana 2013-2020?
-
-Manuscript available in Fall 2022. 
+Q8: What are the delays in treatment initiation for cervical cancer patients with or without HIV infection in Botswana 2013-2020? 
 
 <img width="1132" alt="Screen Shot 2022-10-21 at 4 53 22 PM" src="https://user-images.githubusercontent.com/19508013/197306173-41fbf1ec-79d3-49d5-8316-1734da0b989b.png">
 
