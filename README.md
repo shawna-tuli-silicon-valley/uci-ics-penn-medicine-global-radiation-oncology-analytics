@@ -5,7 +5,7 @@
 
 ∙ [Shawna Tuli 2020 Final Report](https://github.com/shawna-tuli-stanford-uci-kelloggexeced/uci-ics-penn-medicine-radiation-oncology-analytics/blob/main/papers/Report_Final_George_Tuli_9.pdf)
 
-∙ [Shawna Tuli Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
+∙ [Shawna Tuli 2021 Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 
 <img width="853" alt="Screen Shot 2021-10-08 at 7 57 52 AM" src="https://user-images.githubusercontent.com/19508013/136579075-a17e6d7d-5f47-4ea9-97f6-92517af51741.png">
 
