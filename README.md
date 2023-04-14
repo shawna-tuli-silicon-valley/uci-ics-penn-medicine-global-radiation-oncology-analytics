@@ -9,7 +9,7 @@
 
 <img width="853" alt="Screen Shot 2021-10-08 at 7 57 52 AM" src="https://user-images.githubusercontent.com/19508013/136579075-a17e6d7d-5f47-4ea9-97f6-92517af51741.png">
 
-"Shawna is very professional, organized and great to work with! Take initiative and delivers what she commits to doing." - Surbhi Grover (University of Pennsylvania Assistant Professor and Director of Global Radiation Oncology) 
+"Shawna is very professional, organized and great to work with! Take initiative and delivers what she commits to doing." - Surbhi Grover (University of Pennsylvania Assistant Professor & Director of Global Radiation Oncology) 
 
 "Shawna and I began working together during our last year at UC Irvine in 2020. We embarked on an end-to-end data-driven project, applied methods rooted in statistics and machine learning, and have continued working together since. Shawna is the ideal business partner because she is professional, accessible, flexible, and driven by her passion and desire to produce measurable, impactful results. Although she is easily able to teach and share from her own experience and industry knowledge, she is always aiming for growth in order to diversify her skill set. Without a doubt, Shawna is an asset to have for any business or tech pursuits." - Jessica George (Biostatistics Apprentice / Data Scientist at Allergan Aesthetics (an AbbVie company))
 
