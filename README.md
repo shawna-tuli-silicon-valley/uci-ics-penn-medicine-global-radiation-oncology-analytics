@@ -120,19 +120,23 @@ Q8: What are the delays in treatment initiation for cervical cancer patients wit
 
 <img width="1132" alt="Screen Shot 2022-10-21 at 4 53 22 PM" src="https://user-images.githubusercontent.com/19508013/197306173-41fbf1ec-79d3-49d5-8316-1734da0b989b.png">
 
-# 9. TBA
+# 9. 
+
+Journal TBA.
 
 Q9: Patterns of survivorship care of cervical cancer patients with or without HIV infection in Botswana 2015-2022?
 
-Paper available in Fall 2022.
+Paper available in Fall 2023.
 
 Source: /figures_and_tables/5_survivorship_care
 
-# 10. TBA
+# 10.
+
+Journal TBA.
 
 Q10: Delays in treatment initiation for cervical cancer patients with or without HIV infection in Botswana 2013-2019?
 
-Paper available in Fall 2022.
+Paper available in Fall 2023.
 
 # 11.
 
