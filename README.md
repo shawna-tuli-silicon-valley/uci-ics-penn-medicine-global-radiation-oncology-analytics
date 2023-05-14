@@ -133,6 +133,14 @@ Source: /figures_and_tables/5_survivorship_care
 Q10: Delays in treatment initiation for cervical cancer patients with or without HIV infection in Botswana 2013-2019?
 
 Paper available in Fall 2022.
+
+# 11.
+
+![jco](https://github.com/shawna-tuli-stanford-uci-kellogg/uci-ics-penn-medicine-global-radiation-oncology-analytics/assets/19508013/c9001e19-fe04-4440-8922-1d09b96904e1)
+
+Q11: Radiation uptake among patients with breast cancer in Botswana?
+ 
+Paper available in Fall 2023. 
 ___________________________________________________________________________________________________________________________________________________________________
 
 # Presentation I
