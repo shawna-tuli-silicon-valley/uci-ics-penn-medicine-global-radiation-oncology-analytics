@@ -122,7 +122,7 @@ Q8: What are the delays in treatment initiation for cervical cancer patients wit
 
 Journal TBA.
 
-Q9: Patterns of survivorship care of cervical cancer patients with or without HIV infection in Botswana 2015-2022?
+Q9: What are the patterns of survivorship care of cervical cancer patients with or without HIV infection in Botswana 2015-2022?
 
 Paper available in Fall 2023.
 
@@ -132,7 +132,7 @@ Source: /figures_and_tables/5_survivorship_care
 
 Journal TBA.
 
-Q10: Delays in treatment initiation for cervical cancer patients with or without HIV infection in Botswana 2013-2019?
+Q10: What are the delays in treatment initiation for cervical cancer patients with or without HIV infection in Botswana 2013-2019?
 
 Paper available in Fall 2023.
 
@@ -140,13 +140,15 @@ Paper available in Fall 2023.
 
 ![jco](https://github.com/shawna-tuli-stanford-uci-kellogg/uci-ics-penn-medicine-global-radiation-oncology-analytics/assets/19508013/c9001e19-fe04-4440-8922-1d09b96904e1)
 
-Q11: Radiation uptake among patients with breast cancer in Botswana?
+Q11: What is the radiation uptake among patients with breast cancer in Botswana?
  
 Paper available in Fall 2023. 
 
 # 12.
 
 ![uci_Ics_d_fl_p7685](https://github.com/shawna-tuli-stanford-uci-kellogg/uci-ics-penn-medicine-global-radiation-oncology-analytics/assets/19508013/557a1de7-bec7-44b8-8508-e53d3841db93)
+
+Q12: What is the survival of cervial cancer patients with or without HIV infection in Botswana 2013-2020?
 
 ∙ [Shawna Tuli 2020 Final Report](https://github.com/shawna-tuli-stanford-uci-kelloggexeced/uci-ics-penn-medicine-radiation-oncology-analytics/blob/main/papers/Report_Final_George_Tuli_9.pdf)
 
