@@ -3,8 +3,6 @@
 ![uci](https://user-images.githubusercontent.com/19508013/192877507-45ad91e6-8b8a-4a07-ac4a-57e75d648ce1.png)
 ![uci_Ics_d_fl_p7685](https://user-images.githubusercontent.com/19508013/165677982-da0a9e96-dab4-4a12-b068-9b33c1305519.png)
 
-∙ [Shawna Tuli 2020 Final Report](https://github.com/shawna-tuli-stanford-uci-kelloggexeced/uci-ics-penn-medicine-radiation-oncology-analytics/blob/main/papers/Report_Final_George_Tuli_9.pdf)
-
 ∙ [Shawna Tuli 2021 Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 
 <img width="853" alt="Screen Shot 2021-10-08 at 7 57 52 AM" src="https://user-images.githubusercontent.com/19508013/136579075-a17e6d7d-5f47-4ea9-97f6-92517af51741.png">
@@ -145,6 +143,13 @@ Paper available in Fall 2023.
 Q11: Radiation uptake among patients with breast cancer in Botswana?
  
 Paper available in Fall 2023. 
+
+# 12.
+
+![uci_Ics_d_fl_p7685](https://github.com/shawna-tuli-stanford-uci-kellogg/uci-ics-penn-medicine-global-radiation-oncology-analytics/assets/19508013/557a1de7-bec7-44b8-8508-e53d3841db93)
+
+∙ [Shawna Tuli 2020 Final Report](https://github.com/shawna-tuli-stanford-uci-kelloggexeced/uci-ics-penn-medicine-radiation-oncology-analytics/blob/main/papers/Report_Final_George_Tuli_9.pdf)
+
 ___________________________________________________________________________________________________________________________________________________________________
 
 # Presentation I
