@@ -20,15 +20,15 @@
 
 Q1: What are the stage and outcomes of cervival cancer with or without HIV infection in Botswana 2013-2020? 
 
-∙ [Shawna Tuli Stage and Outcomes Paper](https://github.com/shawnatuli/penn-medicine-radiation-oncology-uci-ics-advanced-analytics/blob/main/papers/Stage%20and%20Outcomes%20Paper.pdf)
+∙ [Shawna Tuli 2021 Stage and Outcomes Paper](https://github.com/shawnatuli/penn-medicine-radiation-oncology-uci-ics-advanced-analytics/blob/main/papers/Stage%20and%20Outcomes%20Paper.pdf)
 
-∙ [Shawna Tuli ASTRO 2021 Publication](https://poster.astro.org/astro/2021/eposters/335869?evname=R8CC3Ctklgtmov9hgVZEBw&evsign=1_lZiErfeAVY4c7yOaDgkLlBYbttskOS1obb3KFn6gQ)
+∙ [Shawna Tuli 2021 ASTRO Publication](https://poster.astro.org/astro/2021/eposters/335869?evname=R8CC3Ctklgtmov9hgVZEBw&evsign=1_lZiErfeAVY4c7yOaDgkLlBYbttskOS1obb3KFn6gQ)
 
-∙ [Shawna Tuli Red Journal Article](https://www.redjournal.org/article/S0360-3016(21)02502-5/fulltext)
+∙ [Shawna Tuli 2021 Red Journal Article](https://www.redjournal.org/article/S0360-3016(21)02502-5/fulltext)
 
-∙ [Shawna Tuli ASTRO 2021 E-Poster #3294](https://github.com/shawnatuli/uci-ics-penn-medicine-radiation-oncology-analysis/files/7089467/ASTRO.E-Poster.3294.pdf)
+∙ [Shawna Tuli 2021 ASTRO E-Poster #3294](https://github.com/shawnatuli/uci-ics-penn-medicine-radiation-oncology-analysis/files/7089467/ASTRO.E-Poster.3294.pdf)
 
-∙ [Shawna Tuli UPenn PURM Poster](https://github.com/shawnatuli/uci-ics-penn-medicine-radiation-oncology-analytics/files/7207351/PURM.Poster.pdf)
+∙ [Shawna Tuli 2021 UPenn PURM Poster](https://github.com/shawnatuli/uci-ics-penn-medicine-radiation-oncology-analytics/files/7207351/PURM.Poster.pdf)
 
 <img width="1256" alt="Screen Shot 2022-02-12 at 7 00 52 AM" src="https://user-images.githubusercontent.com/19508013/153716489-47f766b4-aa7a-4093-b5ed-076303296820.png">
 
@@ -40,13 +40,13 @@ Source: /figures_and_tables/1_stages_outcomes
 
 Q2: What are the treatment toxicities of cervical cancer with or without HIV infection in Botswana 2013-2020?
 
-∙ [Shawna Tuli ESTRO 2021 Publication](https://www.estro.org/Congresses/ESTRO-2021/888/gynaecological-endometrium-cervix-vagina-vulva-/4774/treatmenttoxicitiesofcervicalcancerwithorwithouthi)
+∙ [Shawna Tuli 2021 ESTRO Publication](https://www.estro.org/Congresses/ESTRO-2021/888/gynaecological-endometrium-cervix-vagina-vulva-/4774/treatmenttoxicitiesofcervicalcancerwithorwithouthi)
 
-∙ [Shawna Tuli ESTRO 2021 Abstract Book](https://cld.bz/3g6jJy/1092/)
+∙ [Shawna Tuli 2021 ESTRO Abstract Book](https://cld.bz/3g6jJy/1092/)
 
-∙ [Shawna Tuli Green Journal Article](https://www.thegreenjournal.com/article/S0167-8140(21)07766-5/fulltext)
+∙ [Shawna Tuli 2021 Green Journal Article](https://www.thegreenjournal.com/article/S0167-8140(21)07766-5/fulltext)
 
-∙ [Shawna Tuli ESTRO E-Poster PO-1315](https://github.com/shawnatuli/uci-ics-penn-medicine-radiation-oncology-analysis/files/7089470/ESTRO.E-Poster.PO-1315.pdf)
+∙ [Shawna Tuli 2021 ESTRO E-Poster PO-1315](https://github.com/shawnatuli/uci-ics-penn-medicine-radiation-oncology-analysis/files/7089470/ESTRO.E-Poster.PO-1315.pdf)
 
 <img width="1256" alt="Screen Shot 2022-02-12 at 7 01 35 AM" src="https://user-images.githubusercontent.com/19508013/153716609-91a47784-9a26-481f-b7ae-8ab9d74e1534.png">
 
@@ -56,9 +56,9 @@ Source: /figures_and_tables/2_treatment_toxicities
 
 Q3: What are the treatment delays of cervical cancer with or without Human Immunodeficiency Virus infection in Botswana 2013-2020?
 
-∙ [Shawna Tuli UPenn CURF Poster](https://presentations.curf.upenn.edu/sites/default/files/poster_upload/2021-08/treatment-delays-research-poster-pdf.pdf)
+∙ [Shawna Tuli 2021 UPenn CURF Poster](https://presentations.curf.upenn.edu/sites/default/files/poster_upload/2021-08/treatment-delays-research-poster-pdf.pdf)
 
-∙ [Shawna Tuli UPenn PURM Poster](https://github.com/shawnatuli/uci-ics-penn-medicine-radiation-oncology-analytics/files/7280541/PURM.Poster.pdf)
+∙ [Shawna Tuli 2021 UPenn PURM Poster](https://github.com/shawnatuli/uci-ics-penn-medicine-radiation-oncology-analytics/files/7280541/PURM.Poster.pdf)
 
 <img width="1256" alt="Screen Shot 2022-02-12 at 7 14 12 AM" src="https://user-images.githubusercontent.com/19508013/153716942-52528fdf-0846-4d0e-86aa-01027e19f693.png">
 
@@ -68,13 +68,13 @@ Source: /figures_and_tables/3_treatment_delays
 
 Q4: What is the role for Neoadjuvant chemotherapy and less invasive surgery in management of early stage cervical cancer in Botswana?
 
-∙ [Shawna Tuli IGCS 2021 Publication](https://cdn.ymaws.com/members.igcs.org/resource/resmgr/igcs_2021/IGCS21_EPoster_Viewing.pdf)
+∙ [Shawna Tuli 2021 IGCS Publication](https://cdn.ymaws.com/members.igcs.org/resource/resmgr/igcs_2021/IGCS21_EPoster_Viewing.pdf)
 
-∙ [Shawna Tuli IGCS 2021 Program Book](https://indd.adobe.com/view/dfe47995-2a8a-43c4-b91b-65208d15355f)
+∙ [Shawna Tuli 2021 IGCS Program Book](https://indd.adobe.com/view/dfe47995-2a8a-43c4-b91b-65208d15355f)
 
-∙ [Shawna Tuli IJGC Article](https://ijgc.bmj.com/content/31/Suppl_4/A54.3)
+∙ [Shawna Tuli 2021 IJGC Article](https://ijgc.bmj.com/content/31/Suppl_4/A54.3)
 
-∙ [Shawna Tuli IGCS 2021 E-Poster #372](https://github.com/shawnatuli/uci-ics-penn-medicine-radiation-oncology-analysis/files/7089474/IGCS.E-Poster.372.pdf)
+∙ [Shawna Tuli 2021 IGCS E-Poster #372](https://github.com/shawnatuli/uci-ics-penn-medicine-radiation-oncology-analysis/files/7089474/IGCS.E-Poster.372.pdf)
 
 <img width="1256" alt="Screen Shot 2022-02-12 at 7 02 17 AM" src="https://user-images.githubusercontent.com/19508013/153716621-b5ab402a-c7fe-416e-bdf6-6bcf12951548.png">
 
@@ -83,13 +83,13 @@ Source: /figures_and_tables/4_neoadjuvant_chemo
 # 5. ![IAC](https://user-images.githubusercontent.com/19508013/183725212-ae989766-c917-4c0a-9da9-9b94ceace395.png)
 Q5: What is the five-year overall survival following chemoradiation therapy for locally advanced cervical carcinoma in women living with and without HIV infection in Botswana?
 
-∙ [Shawna Tuli Stanford Libraries Article I](https://searchworks.stanford.edu/articles/edsdoj__edsdoj.42e5306f8b524b51b459798dbfcd6181)
+∙ [Shawna Tuli 2021 Stanford Libraries Article I](https://searchworks.stanford.edu/articles/edsdoj__edsdoj.42e5306f8b524b51b459798dbfcd6181)
 
-∙ [Shawna Tuli Stanford Libraries Article II](https://searchworks.stanford.edu/articles/edssjs__edssjs.CF93CCBA)
+∙ [Shawna Tuli 2021 Stanford Libraries Article II](https://searchworks.stanford.edu/articles/edssjs__edssjs.CF93CCBA)
 
-∙ [Shawna  Tuli IAC Article](https://infectagentscancer.biomedcentral.com/articles/10.1186/s13027-021-00389-w)
+∙ [Shawna  Tuli 2021 IAC Article](https://infectagentscancer.biomedcentral.com/articles/10.1186/s13027-021-00389-w)
 
-∙ [Shawna Tuli PubMed](https://pubmed.ncbi.nlm.nih.gov/34344430/)
+∙ [Shawna Tuli 2021 PubMed](https://pubmed.ncbi.nlm.nih.gov/34344430/)
 
 <img width="1237" alt="144502966-020083f2-047a-4706-b55b-451d988c08c9" src="https://user-images.githubusercontent.com/19508013/153717289-acba2ff5-0c30-4110-bdf3-c10fe65a89d1.png">
 
@@ -107,9 +107,9 @@ Q7: What are the stage and outcomes of invasive cervical cancer patients with or
 
 <img width="1232" alt="Screen Shot 2022-10-21 at 4 49 59 PM" src="https://user-images.githubusercontent.com/19508013/197305994-d4eb5c3c-52cd-414b-8acb-34cdbe0026ec.png">
 
-∙ [Shawna Tuli Stanford Libraries Article](https://searchworks.stanford.edu/articles/edselp__S2352578922001746)
+∙ [Shawna Tuli 2021 Stanford Libraries Article](https://searchworks.stanford.edu/articles/edselp__S2352578922001746)
 
-∙ [Shawna Tuli PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9634011/) 
+∙ [Shawna Tuli 2021 PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9634011/) 
 
 # 8. 
 ![ICMH-08](https://user-images.githubusercontent.com/19508013/184208159-ef7b5cfd-899e-4ff0-8008-4c37067b14a1.jpg)
