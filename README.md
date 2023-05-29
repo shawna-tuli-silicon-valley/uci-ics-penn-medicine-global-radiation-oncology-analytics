@@ -105,11 +105,11 @@ Paper available in Fall 2022.
 
 Q7: What are the stage and outcomes of invasive cervical cancer patients with or without HIV in Botswana: A prospective cohort study from 2013-2020?
 
-<img width="1232" alt="Screen Shot 2022-10-21 at 4 49 59 PM" src="https://user-images.githubusercontent.com/19508013/197305994-d4eb5c3c-52cd-414b-8acb-34cdbe0026ec.png">
-
 ∙ [Shawna Tuli 2021 Stanford Libraries Article](https://searchworks.stanford.edu/articles/edselp__S2352578922001746)
 
 ∙ [Shawna Tuli 2021 PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9634011/) 
+
+<img width="1232" alt="Screen Shot 2022-10-21 at 4 49 59 PM" src="https://user-images.githubusercontent.com/19508013/197305994-d4eb5c3c-52cd-414b-8acb-34cdbe0026ec.png">
 
 # 8. 
 ![ICMH-08](https://user-images.githubusercontent.com/19508013/184208159-ef7b5cfd-899e-4ff0-8008-4c37067b14a1.jpg)
