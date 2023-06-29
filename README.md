@@ -72,7 +72,7 @@ Q4: What is the role for Neoadjuvant chemotherapy and less invasive surgery in m
 
 ∙ [Shawna Tuli 2021 IJGC Article](https://ijgc.bmj.com/content/31/Suppl_4/A54.3)
 
-∙ [Shawna Tuli 2021 IGCS E-Poster #372](https://github.com/shawnatuli/uci-ics-penn-medicine-radiation-oncology-analysis/files/7089474/IGCS.E-Poster.372.pdf)
+∙ [Shawna Tuli 2021 IGCS E-Poster #372](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics/blob/main/posters/IGCS.E-Poster.372%20(9).pdf)
 
 <img width="1256" alt="Screen Shot 2022-02-12 at 7 02 17 AM" src="https://user-images.githubusercontent.com/19508013/153716621-b5ab402a-c7fe-416e-bdf6-6bcf12951548.png">
 
