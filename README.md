@@ -26,9 +26,7 @@ Q1: What are the stage and outcomes of cervival cancer with or without HIV infec
 
 ∙ [Shawna Tuli 2021 Red Journal Article](https://www.redjournal.org/article/S0360-3016(21)02502-5/fulltext)
 
-∙ [Shawna Tuli 2021 ASTRO E-Poster #3294](https://github.com/shawnatuli/uci-ics-penn-medicine-radiation-oncology-analysis/files/7089467/ASTRO.E-Poster.3294.pdf)
-
-∙ [Shawna Tuli 2021 UPenn PURM Poster](https://github.com/shawnatuli/uci-ics-penn-medicine-radiation-oncology-analytics/files/7207351/PURM.Poster.pdf)
+∙ [Shawna Tuli 2021 ASTRO E-Poster #3294](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics/blob/main/posters/ASTRO.E-Poster.3294%20(19).pdf)
 
 <img width="1256" alt="Screen Shot 2022-02-12 at 7 00 52 AM" src="https://user-images.githubusercontent.com/19508013/153716489-47f766b4-aa7a-4093-b5ed-076303296820.png">
 
@@ -46,7 +44,7 @@ Q2: What are the treatment toxicities of cervical cancer with or without HIV inf
 
 ∙ [Shawna Tuli 2021 Green Journal Article](https://www.thegreenjournal.com/article/S0167-8140(21)07766-5/fulltext)
 
-∙ [Shawna Tuli 2021 ESTRO E-Poster PO-1315](https://github.com/shawnatuli/uci-ics-penn-medicine-radiation-oncology-analysis/files/7089470/ESTRO.E-Poster.PO-1315.pdf)
+∙ [Shawna Tuli 2021 ESTRO E-Poster PO-1315](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics/blob/main/posters/ESTRO.E-Poster.PO-1315%20(11).pdf)
 
 <img width="1256" alt="Screen Shot 2022-02-12 at 7 01 35 AM" src="https://user-images.githubusercontent.com/19508013/153716609-91a47784-9a26-481f-b7ae-8ab9d74e1534.png">
 
