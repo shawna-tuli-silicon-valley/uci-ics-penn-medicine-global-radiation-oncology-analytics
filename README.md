@@ -58,8 +58,6 @@ Q3: What are the treatment delays of cervical cancer with or without Human Immun
 
 ∙ [Shawna Tuli 2021 UPenn CURF Poster](https://presentations.curf.upenn.edu/sites/default/files/poster_upload/2021-08/treatment-delays-research-poster-pdf.pdf)
 
-∙ [Shawna Tuli 2021 UPenn PURM Poster](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics/blob/main/posters/PURM%20Poster.pdf)
-
 <img width="1256" alt="Screen Shot 2022-02-12 at 7 14 12 AM" src="https://user-images.githubusercontent.com/19508013/153716942-52528fdf-0846-4d0e-86aa-01027e19f693.png">
 
 Source: /figures_and_tables/3_treatment_delays
