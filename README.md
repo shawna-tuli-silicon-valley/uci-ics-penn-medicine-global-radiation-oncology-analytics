@@ -46,6 +46,8 @@ Q2: What are the treatment toxicities of cervical cancer with or without HIV inf
 
 ∙ [Shawna Tuli 2021 ESTRO E-Poster PO-1315](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics/blob/main/posters/ESTRO.E-Poster.PO-1315%20(11).pdf)
 
+∙ [Shawna Tuli 2021 UPenn PURM Poster](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics/blob/main/posters/PURM%20Poster.pdf)
+
 <img width="1256" alt="Screen Shot 2022-02-12 at 7 01 35 AM" src="https://user-images.githubusercontent.com/19508013/153716609-91a47784-9a26-481f-b7ae-8ab9d74e1534.png">
 
 Source: /figures_and_tables/2_treatment_toxicities
@@ -56,7 +58,7 @@ Q3: What are the treatment delays of cervical cancer with or without Human Immun
 
 ∙ [Shawna Tuli 2021 UPenn CURF Poster](https://presentations.curf.upenn.edu/sites/default/files/poster_upload/2021-08/treatment-delays-research-poster-pdf.pdf)
 
-∙ [Shawna Tuli 2021 UPenn PURM Poster](https://github.com/shawnatuli/uci-ics-penn-medicine-radiation-oncology-analytics/files/7280541/PURM.Poster.pdf)
+∙ [Shawna Tuli 2021 UPenn PURM Poster](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics/blob/main/posters/PURM%20Poster.pdf)
 
 <img width="1256" alt="Screen Shot 2022-02-12 at 7 14 12 AM" src="https://user-images.githubusercontent.com/19508013/153716942-52528fdf-0846-4d0e-86aa-01027e19f693.png">
 
