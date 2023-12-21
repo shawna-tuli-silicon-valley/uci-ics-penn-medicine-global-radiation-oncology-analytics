@@ -15,6 +15,8 @@
 
 ∙ [Shawna Tuli 2021 Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 
+∙ [Shawna Tuli 2021 ResearchGate](https://www.researchgate.net/scientific-contributions/Shawna-Tuli-2199131877) 
+
 # 1. 
 ![ASTRO_logo](https://user-images.githubusercontent.com/19508013/165821569-685f1f11-a3f4-4b30-9a40-36f7761a481c.png)
 
