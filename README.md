@@ -13,9 +13,7 @@
 
 "I am honored to write a recommendation letter on behalf of Shawna Tuli. I got the opportunity to work with Shawna during the summer of 2021. She was my mentor and supervisor. Her great skills were remarkable as she had a huge contribution to my personal growth and she helped me achieve some of my academic goals. We worked together on writing a scientific paper about treatment delays for women with or without HIV co-infection in Botswana. Shawna oversaw my project and ensured that I was on the right track by editing my work, refining my writing skills and referring me to the appropriate resources whenever I needed further guidance. In addition to that, Shawna introduced me to the machine learning and statistical methods that were used to analyze the data from the Botswana cohort. When she noted that my interest was ignited, she went further and shared some of her coding projects so that I could enhance my knowledge. This ignited my passion for coding and I have further tried to merge my interest in coding and healthcare to align with my career goals. Shawna was also keen to ensure that I met my deadlines and helped me improve my time management skills by showing me how to organize my research, planning things ahead of time and using a calendar to set a system in place to schedule my day and use my time well. It was a great honor working with Shawna as she was not only a great mentor but she was very impactful to me." - Jane Muni (University of Pennsylvania Nursing Undergraduate)
 
-∙ [Shawna Tuli 2021 Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
-
-∙ [Shawna Tuli 2021 ResearchGate](https://www.researchgate.net/scientific-contributions/Shawna-Tuli-2199131877) 
+∙ [Shawna Tuli 2021 Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en), [Shawna Tuli 2021 ResearchGate](https://www.researchgate.net/scientific-contributions/Shawna-Tuli-2199131877) 
 
 
 
