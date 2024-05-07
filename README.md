@@ -1,5 +1,5 @@
-![upenn](https://user-images.githubusercontent.com/19508013/192608527-84bba0a3-2163-4fdd-be6c-0eac6bdec564.png)
-![PM_RO_CMYK_2C-1](https://user-images.githubusercontent.com/19508013/165677913-07b6ff12-92bf-4714-9c6b-87c0a077782f.jpg)
+![Penn](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics/assets/19508013/352c2baa-c1e5-4e01-a3ff-fca829369a0e)
+![PennMed](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics/assets/19508013/6d342443-c38e-407b-aeb6-ae2696f339ae)
 ![uci](https://user-images.githubusercontent.com/19508013/192877507-45ad91e6-8b8a-4a07-ac4a-57e75d648ce1.png)
 ![uci_Ics_d_fl_p7685](https://user-images.githubusercontent.com/19508013/165677982-da0a9e96-dab4-4a12-b068-9b33c1305519.png)
 
