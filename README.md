@@ -3,8 +3,6 @@
 ![uci](https://user-images.githubusercontent.com/19508013/192877507-45ad91e6-8b8a-4a07-ac4a-57e75d648ce1.png)
 ![uci_Ics_d_fl_p7685](https://user-images.githubusercontent.com/19508013/165677982-da0a9e96-dab4-4a12-b068-9b33c1305519.png)
 
-<img width="853" alt="Screen Shot 2021-10-08 at 7 57 52 AM" src="https://user-images.githubusercontent.com/19508013/136579075-a17e6d7d-5f47-4ea9-97f6-92517af51741.png">
-
 "Shawna is very professional, organized and great to work with! Take initiative and delivers what she commits to doing." - Surbhi Grover (University of Pennsylvania Assistant Professor & Director of Global Radiation Oncology) 
 
 "Shawna and I began working together during our last year at UC Irvine in 2020. We embarked on an end-to-end data-driven project, applied methods rooted in statistics and machine learning, and have continued working together since. Shawna is the ideal business partner because she is professional, accessible, flexible, and driven by her passion and desire to produce measurable, impactful results. Although she is easily able to teach and share from her own experience and industry knowledge, she is always aiming for growth in order to diversify her skill set. Without a doubt, Shawna is an asset to have for any business or tech pursuits." - Jessica George (Biostatistics Apprentice / Data Scientist at Allergan Aesthetics (an AbbVie company))
@@ -15,9 +13,4 @@
 
 * [Shawna Tuli 2021 Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en), [Shawna Tuli 2021 ResearchGate](https://www.researchgate.net/scientific-contributions/Shawna-Tuli-2199131877) 
 
-
-
-
-
-
-
+<img width="853" alt="Screen Shot 2021-10-08 at 7 57 52 AM" src="https://user-images.githubusercontent.com/19508013/136579075-a17e6d7d-5f47-4ea9-97f6-92517af51741.png">
